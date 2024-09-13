@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="titulo">Recursos Multimedia</string>
+    <string name="menu1">Music Player</string>
+    <string name="menu2">Media Player</string>
+    <string name="menu3">Video View</string>
+
+
+    <string name="play">Reproducir</string>
+    <string name="stop">Detener</string>
+</resources>
